@@ -1,4 +1,4 @@
-<h3 align="left">Hi 👋! My name is Pranay Sherkar and I'm a Frontend Developer from India.</h3>
+<h3 align="left">Hey there! 👋 I'm Pranay Sherkar, crafting beautiful web experiences from India</h3>
 
 ###
 
@@ -57,7 +57,7 @@
 
 ###
 
-<img align="right" height="100" src="https://i.pinimg.com/originals/57/2c/19/572c1921557952edc061196b83b5b0d8.gif"  />
+<img align="right" height="150" src="https://i.pinimg.com/originals/57/2c/19/572c1921557952edc061196b83b5b0d8.gif"  />
 
 ###
 
@@ -69,14 +69,6 @@
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
-</div>
-
-###
-
-<div align="left">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&theme=dark&username=Pranaysherkar" alt="Layout with last medium posts"  />
 </div>
 
 ###
