@@ -56,7 +56,10 @@
 
 ###
 
-<img align="right" height="150" src="https://i.pinimg.com/originals/57/2c/19/572c1921557952edc061196b83b5b0d8.gif"  />
+<img src="anim_sparkles.svg" width="350" height="350" alt="Profile Image" />
+
+
+
 
 ###
 
